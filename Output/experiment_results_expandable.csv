@@ -1,0 +1,42 @@
+Experiment_Name,Prompt,Context_Length,pre_gen_max_mem_allocated_gpu0,pre_gen_max_mem_allocated_gpu1,pre_gen_reserved_mem_gpu0,pre_gen_reserved_mem_gpu1,post_gen_max_mem_allocated_gpu0,post_gen_max_mem_allocated_gpu1,post_gen_reserved_mem_gpu0,post_gen_reserved_mem_gpu1,latency,llm_answer
+default,What is the firm period for Ognibene?,70483,6.67,8.29,6.68,8.30,18.27,20.43,19.64,21.39,38.07695150375366,"The Firm Period for Ognibene Power S.p.A. is not explicitly stated in the provided text. However, according to the Master Supply Agreement, the Firm Period is defined as the period corresponding to the Firm Orders as updated on a weekly basis."
+default,What is the firm period for Hengli?,70554,18.27,20.43,19.64,21.39,18.28,20.45,19.64,21.39,49.603331089019775,"The Firm Period for Jiangsu Hengli Hydraulic Co is 8 weeks, as stated in Section 4.1(a)(i) of the Master Supply Agreement, which says: ""a) A 12 months rolling forecast of requirements will be made available to the Supplier, out of which: (i) the communicated requirements of the first 8 weeks of each rolling period will be committed as Firm Orders (""Firm Period"")."""
+default,What are the material planning requirements for Ognibene?,70664,18.28,20.45,19.64,21.39,18.30,20.46,19.64,21.39,104.89294505119324,"The material planning requirements for Ognibene Power S.p.A. are as follows:
+
+* A 12 months rolling forecast of requirements will be made available to the Supplier.
+* The communicated requirements of the first 8 weeks of each rolling period will be committed as Firm Orders (""Firm Period"").
+* The forecasted requirements for the period between week 9 and week 52 of each rolling period shall be considered for Supplier Raw Material planning purpose based on Supplier lead time, it being understood that the quantities forecast during that period are for planning purposes only and they do not constitute any CNHII commitment or obligation to take.
+* The Parties agree to meet at least twice per year to discuss and define in good faith the capacity booking for the following six (6) month period that the Supplier shall guarantee to reserve for CNHII for the following six (6) month period (the ""Capacity Booking Meetings"").
+* Material Requirements will be updated on a weekly basis for all CNHII plants and published on the Supplier Portal.
+* In case no update is provided, the last communication will be considered as valid.
+* In the event of supply of mix-sensitive material (V-Parts), Supplier shall plan to the Firm Period, ensuring the availability of material either through process flexibility or safety"
+default,What are the material planning requirements for Hengli?,70941,18.30,20.46,19.64,21.39,18.35,20.51,19.64,21.49,105.15740728378296,"The material planning requirements for Jiangsu Hengli Hydraulic Co. are as follows:
+
+* A 12 months rolling forecast of requirements will be made available to the Supplier.
+* The communicated requirements of the first 6 weeks of each rolling period will be committed as Firm Orders (""Firm Period"").
+* The forecasted requirements for the period between week 7 and week 13 of each rolling period shall be considered for Supplier Raw Material planning purpose based on Supplier lead time, with a 15% deviation allowed.
+* The forecasted requirements for the period between week 14 and week 25 of each rolling period shall be considered for Supplier Raw Material planning purpose based on Supplier lead time, it being understood that the quantities forecast during that period are for planning purposes only and they do not constitute any CNHII commitment or obligation to take.
+* The Parties agree to meet at least twice per year to discuss and define in good faith the capacity booking for the following six (6) month period that the Supplier shall guarantee to reserve for CNHII for the following six (6) month period (the ""Capacity Booking Meetings"").
+* Material Requirements will be updated on a weekly basis for all CNHII plants and published on the Supplier Portal.
+* In case no update is provided, the"
+default,What are the warranty requirements for Hengli?,71217,18.35,20.51,19.64,21.49,18.39,20.56,19.64,21.53,104.875736951828,"The warranty requirements for Jiangsu Hengli Hydraulic Co. are as follows:
+
+* The warranty period for products is 24 months from delivery of CNH Machinery to the end-use retail customer.
+* The warranty period for after-sales parts is 12 months from the installed date.
+* Supplier warrants that the products and service parts will be of merchantable quality and fit for the usual and ordinary purpose.
+* Supplier warrants that the products and service parts will be free from any defects in the Supplier's or third-party-appointed supplier's design, material, and workmanship.
+* Supplier warrants that the products and service parts will conform to all specifications, quality standards, and other applicable standards provided by CNH to Supplier and the terms of the Master Supply Agreement.
+* Supplier warrants that the products and service parts will comply with all Applicable Laws and legal requirements.
+* Supplier shall reimburse the relevant CNH Affiliate for warranty costs incurred by it as a result of the breach of any warranty, including labor, replacement products, and other costs.
+* Supplier shall provide a corrective action plan for products that experience warranty failure, which must be approved in writing by CNH before being implemented by Supplier.
+* Supplier shall promptly inform CNH of the likely root cause(s) for such non-conformance or defect"
+default,Can you create a table showing the warranty requirements for Ognibene and Hengli?,71502,18.39,20.56,19.64,21.53,18.44,20.61,19.64,21.53,105.5736927986145,"Here is a table showing the warranty requirements for Ognibene Power S.p.A. and Jiangsu Hengli Hydraulic Co.:
+
+| **Warranty Requirement** | **Ognibene** | **Hengli** |
+| --- | --- | --- |
+| Warranty Period for Products | 30 months from delivery of CNH Machinery to the end-use retail customer | 24 months from delivery of CNH Machinery to the end-use retail customer |
+| Warranty Period for After-Sales Parts | 12 months from the installed date | 12 months from the installed date |
+| Warranty Period for Products that form a part of the vehicle emissions system | 5 years or 3,000 hours, whichever comes first, from delivery to the end-use retail customer | Not specified |
+| Warranty Period for Seals | 12 months from delivery of CNH Machinery to the end-use retail customer | Not specified |
+| Warranty Period for Other Products | 24 months from delivery of CNH Machinery to the end-use retail customer | Not specified |
+| Supplier's Obligation to Reimburse Warranty Costs | Supplier shall reimburse the relevant CNH Affiliate for warranty costs incurred by it as a result of the breach of any warranty, including labor, replacement products, and other costs"
