@@ -1,0 +1,124 @@
+
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 16-Dec-2024 23:14:08****
+   Running experiment: default
+       Model loaded for experiment: default
+           Running prompt: What is the firm period for Ognibene?
+           Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 18-Dec-2024 23:07:37****
+   Running experiment: default
+       Model loaded for experiment: default
+           Running prompt: What is the firm period for Ognibene?
+           Finished prompt with status: Failed
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 18-Dec-2024 23:11:41****
+   Running experiment: default
+       Model loaded for experiment: default
+           Running prompt: What is the firm period for Ognibene?
+           Finished prompt with status: Failed
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 18-Dec-2024 23:14:27****
+   Running experiment: default
+       Model loaded for experiment: default
+           Running prompt: What is the firm period for Ognibene?
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 18-Dec-2024 23:28:11****
+   Running experiment: default
+       Model loaded for experiment: default
+           Running prompt: What is the firm period for Ognibene?
+           Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 19-Dec-2024 22:32:35****
+   Running experiment: default
+       Model loaded for experiment: default
+           Running prompt: What is the firm period for Ognibene?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 6.67, 8.29, 6.72, 8.36
+           In TRY section
+           Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 44.12, 64.19, 56.05, 66.71
+           In TRY section
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 19-Dec-2024 22:39:04****
+   Running experiment: default
+       Model loaded for experiment: default
+           Running prompt: What is the firm period for Ognibene?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 6.67, 8.29, 6.72, 8.36
+           In TRY section
+           Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 44.12, 64.19, 56.05, 66.71
+           In TRY section
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 19-Dec-2024 22:45:00****
+   Running experiment: flashattention
+       Model loaded for experiment: flashattention
+           Running prompt: What is the firm period for Ognibene?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 6.67, 8.29, 6.72, 8.36
+           In TRY section
+           Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 44.12, 64.19, 56.86, 67.51
+           In TRY section
+           Finished prompt with status: Failed
+   Running experiment: 8 bit
+       Model loaded for experiment: 8 bit
+           Running prompt: What is the firm period for Ognibene?
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 19-Dec-2024 22:56:11****
+   Running experiment: flashattention
+       Model loaded for experiment: flashattention
+       Finishing loading model for experiment: flashattention
+           Running prompt: What is the firm period for Ognibene?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 6.67, 8.29, 6.72, 8.36
+           In TRY section
+           Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 44.12, 64.19, 56.86, 67.51
+           In TRY section
+           Finished prompt with status: Failed & exception: CUDA out of memory. Tried to allocate 33.68 GiB. GPU  has a total capacity of 79.15 GiB of which 21.34 GiB is free. Process 1167465 has 6.54 GiB memory in use. Including non-PyTorch memory, this process has 51.17 GiB memory in use. Of the allocated memory 30.52 GiB is allocated by PyTorch, and 20.15 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+   Running experiment: 8 bit
+       Finishing loading model for experiment: 8 bit
+           Running prompt: What is the firm period for Ognibene?
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 19-Dec-2024 23:00:07****
+   Running experiment: flashattention
+       Model loaded for experiment: flashattention
+       Finishing loading model for experiment: flashattention
+           Running prompt: What is the firm period for Ognibene?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 6.67, 8.29, 6.72, 8.36
+           In TRY section
+           Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 44.12, 64.19, 56.86, 67.51
+           In TRY section
+           Finished prompt with status: Failed & exception: CUDA out of memory. Tried to allocate 33.68 GiB. GPU  has a total capacity of 79.15 GiB of which 21.34 GiB is free. Process 1167465 has 6.54 GiB memory in use. Including non-PyTorch memory, this process has 51.17 GiB memory in use. Of the allocated memory 30.52 GiB is allocated by PyTorch, and 20.15 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+   Running experiment: 8_bit
+       Model loaded for experiment: 8_bit
+       Finishing loading model for experiment: 8_bit
+           Running prompt: What is the firm period for Ognibene?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 3.35, 64.19, 3.41, 67.51
+           In TRY section
+           Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+           Pre-gen memory stats - allocated 0,1 & reserved 0,1: 39.89, 64.19, 55.31, 67.51
+           In TRY section
+           Finished prompt with status: Failed & exception: CUDA out of memory. Tried to allocate 33.70 GiB. GPU  has a total capacity of 79.15 GiB of which 23.19 GiB is free. Process 1167465 has 6.54 GiB memory in use. Including non-PyTorch memory, this process has 49.31 GiB memory in use. Of the allocated memory 28.46 GiB is allocated by PyTorch, and 20.34 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+   Running experiment: flashattention+8
+       Finishing loading model for experiment: flashattention+8
+           Running prompt: What is the firm period for Ognibene?
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 19-Dec-2024 23:09:30****
+   Running experiment: flashattention
+       Model loaded for experiment: flashattention
+       Finishing loading model for experiment: flashattention
+           Running prompt: What is the firm period for Ognibene?
+               Pre-gen memory stats - allocated 0,1 & reserved 0,1: 39.89, 8.30, 55.31, 8.38
+               In TRY section
+               Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+               Pre-gen memory stats - allocated 0,1 & reserved 0,1: 44.12, 64.19, 55.31, 65.63
+               In TRY section
+**** STARTING EXPERIMENTS WITH expandable_segments:not set at 19-Dec-2024 23:13:37****
+   Running experiment: flashattention
+       Model loaded for experiment: flashattention
+       Finishing loading model for experiment: flashattention
+           Running prompt: What is the firm period for Ognibene?
+               Pre-gen memory stats - allocated 0,1 & reserved 0,1: 6.67, 8.29, 6.72, 8.36
+               In TRY section
+               Finished prompt with status: Success
+           Running prompt: What is the firm period for Hengli?
+               Pre-gen memory stats - allocated 0,1 & reserved 0,1: 44.12, 64.19, 56.86, 67.51
+               In TRY section
